@@ -1,0 +1,8 @@
+[General]
+VERSION=1
+DATATYPE=2
+TASKNAME=\x96c5\x6c5f\x53bf_\x884c\x653f\x8fb9\x754c
+CREATETIME=@Variant(\0\0\0\x10\0\0\0\0\xff\xff\xff\xff\xff)
+SUCCESS=true
+PROIMGURL=://Resources/vector_map.png
+BOUNDS="@Variant(\0\0\0\x14@Y\x18N\n6\xb4H@=\x10n\v\xf5\b\xae?\xf0\xf2p\x9b\x9f\x1a\0?\xf7>i\x6\xc0\x9fp)"
